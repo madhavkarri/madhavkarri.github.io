@@ -22,4 +22,4 @@ Applied Computer Vision and Deep Learning techniques to autonomous driving probl
 
 #
 - Project 5: Implemented Extended Kalman Filter in C++. Used Kalman filter in conjunction with lidar and radar measurements to track bicycle's position and velocity
-  - 
+  - Temp
