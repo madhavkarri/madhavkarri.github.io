@@ -18,5 +18,8 @@ Applied Computer Vision and Deep Learning techniques to autonomous driving probl
 
 #
 - Project 4: Using Deep Neural Networks and Convolutional Neural Networks clone driving behavior. Train, validate, and test a model using Keras. Model outputs a steering angle to drive the car autonomously around the track
+  - Github Project Repo: [https://github.com/madhavkarri/CarND-P4-BehavioralCloning](https://github.com/madhavkarri/CarND-P4-BehavioralCloning)
+
 #
 - Project 5: Implemented Extended Kalman Filter in C++. Used Kalman filter in conjunction with lidar and radar measurements to track bicycle's position and velocity
+  - 
