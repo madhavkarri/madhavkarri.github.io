@@ -21,7 +21,7 @@ Applied Computer Vision and Deep Learning techniques to autonomous driving probl
   - [Github Project Repo](https://github.com/madhavkarri/CarND-P4-BehavioralCloning)
 
 ---
-- Project 5: Implemented Extended Kalman Filter in C++. Used Kalman filter in conjunction with lidar and radar measurements to track bicycle's position and velocity
+- Project 5: Implemented Extended Kalman Filter in C++. Used Kalman filter in conjunction with cars's lidar and radar measurements to track bicycle (around the car) position and velocity
   - [Github Project Repo](https://github.com/madhavkarri/CarND-P5-ExtendedKalmanFilters)
 
 ---
